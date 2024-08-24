@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Veeresh Amaragatti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **Machine learning,Data Analytics,Data Structures and Algorithms**
-
-- 💬 Ask me about **I am a tech enthusiast skilled in web development and DSA. Passionate about solving problems and building dynamic web applications.**
 
 - 📫 How to reach me **veereshamaragatti26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/veeresh-amaragatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veeresh-amaragatti" height="30" width="40" /></a>
+<a href="https://instagram.com/veeresh.amaragatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veeresh.amaragatti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
